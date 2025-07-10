@@ -1,5 +1,3 @@
-# Curriculo
-
 # Currículo
 
 🖥️ Acesse meu currículo online:
